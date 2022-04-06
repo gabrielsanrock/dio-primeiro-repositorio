@@ -1,3 +1,6 @@
 # dio-primeiro-repositorio
 Git/github repository
-teste
+
+## Links
+[Stack Overflow] (https://pt.stackoverflow.com/)
+[Sintaxe básica] (https://markdown.net.br/sintaxe-basica/)
